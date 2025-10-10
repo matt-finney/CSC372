@@ -1,5 +1,10 @@
 package CSC372Mod1;
 
+/*
+ * CSC372 - Module 1
+ * Matthew Finney
+ * Test the BankAccount and CheckingAccount classes to show Inheritance and Polymorphism
+ */
 public class Module1 
 {
     public static void main(String[] args) 

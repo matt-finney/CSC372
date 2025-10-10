@@ -1,5 +1,11 @@
 package CSC372Mod1;
 
+/*
+ * CSC372 - Module 1
+ * Matthew Finney
+ * A class to represent a checking account that extends BankAccount with overdraft capabilities
+ */
+
 public class CheckingAccount extends BankAccount
 {
     private double interest_rate;
