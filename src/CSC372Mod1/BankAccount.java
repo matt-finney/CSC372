@@ -62,7 +62,7 @@ package CSC372Mod1;
     {
         System.out.printf
         (
-            "First name: %s%nLast name: %s%nAccount ID: %d%nCurrent balance: %.2f%n",
+            "First name: %s%nLast name: %s%nAccount ID: %d%nCurrent balance: $%.2f%n",
             first_name, last_name, account_ID, balance
         );
     }
