@@ -1,3 +1,19 @@
+# Build output
+out/
+target/
+build/
+*.class
+
+# VS Code
+.vscode/**/*
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+
 # Compiled class file
 *.class
 
