@@ -17,6 +17,7 @@ public class CheckingAccount extends BankAccount
         if (amount > getBalance()) 
         {
             double new_balance = getBalance() - amount - OVERDRAFT_FEE;
+            // allow negative balance due to overdraft
             setBalance(new_balance);
             System.out.printf("Withdrawal exceeds balance. Overdraft fee of $%.2f assessed. New balance: $%.2f%n", OVERDRAFT_FEE, new_balance);
         } 
