@@ -111,11 +111,6 @@ package CSC372Mod1;
 
     public void setBalance(double balance) 
     {
-        if (balance < 0) 
-        {
-            System.out.println("Error: Balance cannot be negative");
-            return;
-        }
         this.balance = balance;
     }
  }
