@@ -4,6 +4,7 @@ package CSC372Mod1;
  * CSC372 - Module 1
  * Matthew Finney
  * A class to represent a checking account that extends BankAccount with overdraft capabilities
+ * https://github.com/matt-finney/CSC372
  */
 
 public class CheckingAccount extends BankAccount

@@ -4,6 +4,7 @@ package CSC372Mod1;
  * CSC372 - Module 1
  * Matthew Finney
  * Test the BankAccount and CheckingAccount classes to show Inheritance and Polymorphism
+ * https://github.com/matt-finney/CSC372
  */
 public class Module1 
 {

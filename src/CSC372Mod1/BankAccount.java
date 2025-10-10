@@ -4,6 +4,7 @@ package CSC372Mod1;
  * CSC372 - Module 1
  * Matthew Finney
  * A class to represent a bank account with basic attributes and methods
+ * https://github.com/matt-finney/CSC372
  */
 
  public class BankAccount
