@@ -5,6 +5,13 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/*
+ * CSC372 - Module 2
+ * Matthew Finney
+ * A simple GUI application to manage a bank account balance
+ * https://github.com/matt-finney/CSC372
+ */
+
 public class Module2 extends JFrame implements ActionListener 
 {
     private double balance;             // holds account balance
