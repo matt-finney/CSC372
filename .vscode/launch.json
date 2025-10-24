@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Module3",
+            "request": "launch",
+            "vmArgs": "--module-path \"${workspaceFolder}/lib/javafx-25/lib\" --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics",
+            "mainClass": "CSC372Mod3.Module3",
+            "projectName": "CSC372_c7facfb1"
+        },
+        {
+            "type": "java",
             "name": "mod3example",
             "request": "launch",
             "mainClass": "tests.mod3example",
