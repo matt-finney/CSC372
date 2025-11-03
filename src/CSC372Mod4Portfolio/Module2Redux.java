@@ -126,7 +126,7 @@ public class Module2Redux extends Application
         updateUI();
     }
 
-     // Parse and validate amount entered in the text field
+    // Parse and validate amount entered in the text field
     private Double parseAmount() 
     {
         String txt = amount_field.getText().trim();
