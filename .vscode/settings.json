@@ -12,18 +12,16 @@
             "mainClass": "${file}"
         }
     ],
-    // Java project settings for this workspace
-    "java.project.referencedLibraries": 
-    {
-        "include": 
-        [
-            "lib/javafx-25/lib/*.jar"
-        ]
-    },
     "java.project.sourcePaths": 
     [
         "src"
     ],
+    /*// Java project settings for this workspace
+    "java.project.referencedLibraries": 
+    [
+        "lib/javafx-25/lib/*.jar"
+    ],
     // Ensure JavaFX VM args are applied
     "java.debug.settings.vmArgs": "--module-path \"${workspaceFolder}\\lib\\javafx-25\\lib\" --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics"
+    */
 }
