@@ -2,6 +2,7 @@ package CSC372Mod6;
 
 import java.util.Comparator;
 
+// Comparator to compare Students by name
 public class NameComparator implements Comparator<Student> 
 {
     @Override

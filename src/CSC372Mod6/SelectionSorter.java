@@ -17,13 +17,13 @@ public class SelectionSorter
 
             for (int j = i + 1; j < n; j++) 
             {
+                // Use comparator to find the min element
                 if (comp.compare(list.get(j), list.get(min_index)) < 0) 
                 {
                     min_index = j;
                 }
             }
-
-            // Swap
+            // Swap the found minimum element with the first element
             Student temp = list.get(i);
             list.set(i, list.get(min_index));
             list.set(min_index, temp);
