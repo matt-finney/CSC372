@@ -11,7 +11,6 @@ import java.util.Scanner;
 
 public class Module7 
 {
-
     // recursive method to calculate product
     public static int product(int[] numbers, int index) 
     {
