@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Module7",
+            "request": "launch",
+            "mainClass": "CSC372Mod7.Module7",
+            "projectName": "CSC372_5890ef5d"
+        },
+        {
+            "type": "java",
             "name": "Module6",
             "request": "launch",
             "mainClass": "CSC372Mod6.Module6",
