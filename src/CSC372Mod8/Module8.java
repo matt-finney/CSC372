@@ -3,6 +3,13 @@ package CSC372Mod8;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/*
+ * CSC372 - Module 8 Portfolio Project
+ * Matthew Finney
+ * A library inventory management system with user input to add, borrow, return, search, and print books
+ * https://github.com/matt-finney/CSC372
+ */
+
 public class Module8 
 {
 
